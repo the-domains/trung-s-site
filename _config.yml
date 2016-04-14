@@ -1,0 +1,28 @@
+name: "Trung's site"
+favicon: null
+layout_spectrum: 0.3721120641566813
+typography_spectrum: 0.22158773825503886
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.06133650662377477
+  lightness: 0.7520347707904875
+  saturation: 0.10729790083132684
+  rhythmicContrast: 0.5472646236885339
+purpose: []
